@@ -1,0 +1,14 @@
+node_modules
+.expo
+.expo-shared
+dist
+build
+coverage
+*.log
+*.tmp
+*.bak
+*.sqlite
+*.db
+Thumbs.db
+.DS_Store
+

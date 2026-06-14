@@ -1,0 +1,69 @@
+{
+  "titulo": "O Modernismo Brasileiro",
+  "descricao": "Material de estudo ativo sobre o Modernismo Brasileiro, suas fases, caracteristicas, autores e obras principais.",
+  "conteudo": [
+    {
+      "id": "mod1",
+      "trecho": "O Modernismo Brasileiro surgiu em um contexto de grandes mudancas do inicio do seculo XX. O mundo passava por transformacoes economicas, politicas, sociais e culturais, com acontecimentos como guerras, industrializacao, invencoes tecnologicas e crises economicas. No Brasil, a arte ainda seguia principalmente modelos academicos e parnasianos antes da Semana de Arte Moderna de 1922.",
+      "perguntas": [
+        {
+          "id": "q1",
+          "tipo": "multipla_escolha",
+          "pergunta": "Qual caracteristica do contexto historico contribuiu para o surgimento do Modernismo Brasileiro?",
+          "alternativas": [
+            {
+              "id": "A",
+              "texto": "A permanencia exclusiva dos valores medievais na cultura brasileira."
+            },
+            {
+              "id": "B",
+              "texto": "As transformacoes sociais, tecnologicas e culturais do inicio do seculo XX."
+            },
+            {
+              "id": "C",
+              "texto": "A ausencia de mudancas na arte e na sociedade."
+            },
+            {
+              "id": "D",
+              "texto": "O retorno aos modelos classicos da literatura antiga."
+            }
+          ],
+          "resposta_correta": "B",
+          "explicacao": "O Modernismo surgiu em meio a mudancas profundas que influenciaram novas formas de pensar a arte."
+        }
+      ]
+    },
+    {
+      "id": "mod2",
+      "trecho": "A Semana de Arte Moderna aconteceu em 1922, em Sao Paulo, durante as comemoracoes do Centenario da Independencia. O evento marcou a ruptura com o tradicionalismo cultural e defendeu uma nova estetica ligada a independencia cultural brasileira.",
+      "perguntas": [
+        {
+          "id": "q2",
+          "tipo": "alternativa_correta",
+          "pergunta": "Qual foi um dos principais objetivos da Semana de Arte Moderna de 1922?",
+          "alternativas": [
+            {
+              "id": "A",
+              "texto": "Reforcar os modelos literarios tradicionais."
+            },
+            {
+              "id": "B",
+              "texto": "Romper com padroes anteriores e criar novas formas artisticas."
+            },
+            {
+              "id": "C",
+              "texto": "Retomar exclusivamente o estilo parnasiano."
+            },
+            {
+              "id": "D",
+              "texto": "Eliminar todas as influencias culturais estrangeiras."
+            }
+          ],
+          "resposta_correta": "B",
+          "explicacao": "A Semana buscou renovar a arte brasileira e romper com padroes tradicionais."
+        }
+      ]
+    }
+  ]
+}
+
